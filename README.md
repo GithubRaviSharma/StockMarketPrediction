@@ -1,4 +1,4 @@
-**Stock Market Prediction Project**
+#Stock Market Prediction Project#
 
 This project aims to predict stock market trends using Watson Studio, focusing on the BSE Sensex and Nifty Fifty indexes. The repository is organized into three folders: one detailing the steps to follow for prediction using Watson Studio, another containing BSE Sensex prediction data, code, and output, and the third containing NSE turnover prediction data, code, and output.
 
